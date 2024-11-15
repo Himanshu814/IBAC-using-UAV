@@ -2,15 +2,21 @@
 
 This repository contains the code and resources for the research project "Design of Image-Based Analysis and Classification Using Unmanned Aerial Vehicle", published at the ICCES 2023 conference on June 1, 2023. The project aimed to enhance building damage assessment using UAV-collected imagery and deep learning techniques.
 
-## Project Overview:**
+## Project Overview:
 **1. Objective:** To utilize UAVs for collecting images of buildings and classify them into damaged and non-damaged categories using a Convolutional Neural Network (CNN) model. The project further breaks down the classification of damaged buildings into levels D0, D1, D2-D3, and D4-D5, simplifying the damage assessment process for effective analysis.
+
 **2. Publication:** Published at ICCES 2023.
+
 **3. Team:** Led by myself with a team of 2 members, where I was responsible for dataset collection and full project development.
 
 ## **Key Contributions:**
+
 **1. Project Leadership:** Directed the project from inception to completion, including dataset acquisition and complete development of the codebase.
+
 **2. Model Implementation:** Created and evaluated CNN models to classify building images, choosing the most efficient one for the final implementation.
+
 **3. Training and Optimization:** Conducted model training and testing phases to fine-tune and optimize the accuracy and reliability of results.
+
 **4. Research and Publication:** Authored the research paper detailing the methodology and findings and successfully secured a patent and copyright for the work.
 
 ## **Features:**

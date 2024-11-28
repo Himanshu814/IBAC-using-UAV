@@ -6,6 +6,7 @@ This repository contains the code and resources for the research project "Design
 **1. Objective:** To utilize UAVs for collecting images of buildings and classify them into damaged and non-damaged categories using a Convolutional Neural Network (CNN) model. The project further breaks down the classification of damaged buildings into levels D0, D1, D2-D3, and D4-D5, simplifying the damage assessment process for effective analysis.
 
 **2. Publication:** Published in IEEE conference at ICCES 2023. Patent have been published and copyright is registered.
+Link - https://ieeexplore.ieee.org/document/10192623
 
 **3. Team:** Led by myself with a team of 2 members, where I was responsible for dataset collection and full project development.
 

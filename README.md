@@ -9,7 +9,7 @@ This repository contains the code and resources for the research project "Design
 
 Link - https://ieeexplore.ieee.org/document/10192623
 
-**3. Team:** Led by myself with a team of 2 members, where I was responsible for dataset collection and full project development.
+**3. Team:** Led a team of 2 members, where I was responsible for dataset collection and full project development.
 
 ## **Key Contributions:**
 
